@@ -4,7 +4,7 @@
 
 - The current site entry point is `index.html`.
 - The page is a small, standalone HTML document with CSS in a `<style>` block.
-- The current page identifies the site as AD-Digital, says it is under construction, and provides `admin@ad-digital.site` as a contact address.
+- The current page identifies AD-Digital as an IT solutions company offering web programming and design, Linux software applications, and customized AI agents. Its contact address is `contact@ad-digital.site`.
 - Use `website-content.md` as the content reference for verified site copy and content boundaries.
 - Do not assume a framework, build system, package manager, backend, API, design system, or additional pages. Inspect the workspace before relying on any of these.
 
